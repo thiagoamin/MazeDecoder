@@ -1,8 +1,23 @@
-# Project README
+# Maze Decoder
 
 ## Overview
 
-This project is a pathfinding and image decoding application that leverages the Breadth-First Search (BFS) algorithm and a Deque data structure to navigate through mazes embedded within PNG images. The primary goal is to decode hidden paths in these images, rendering solutions and revealing the mazes. 
+This project is a pathfinding and image decoding application that leverages the Breadth-First Search (BFS) algorithm and a Deque data structure to navigate through mazes embedded within PNG images. The primary goal is to decode hidden paths in these images, revealing the mazes, and rendering solutions. 
+
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <p>Figure 1: Image with Embedded Maze Hidden</p>
+    <img src="https://github.com/thiagoamin/MazeDecoder/assets/122248078/7f1e541d-5c45-42f4-a2a6-5ca2bb55f011" alt="embedded maze" style="max-width: 300px;">
+  </div>
+  <div style="margin: 10px;">
+    <p>Figure 2: Image with Embedded Maze Revealed</p>
+    <img src="https://github.com/thiagoamin/MazeDecoder/assets/122248078/1c7db908-1724-4397-a5c1-3d35021cb31c" alt="solution maze maze" style="max-width: 300px;">
+  </div>
+  <div style="margin: 10px;">
+    <p>Figure 3: Solution to Maze Found</p>
+    <img src="https://github.com/thiagoamin/MazeDecoder/assets/122248078/608e78a5-3280-498b-aa4d-df1994accd43" alt="solution maze" style="max-width: 300px;">
+  </div>
+</div>
 
 ## Key Components
 
