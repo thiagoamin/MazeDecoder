@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f532e4ca-606d-4938-8c8f-40561de35531" name="Anvil Student CS" url="thetis.students.cs.ubc.ca">
+        <fileTransfer rootFolder="/home/t/thiago22" accessType="SFTP" host="thetis.students.cs.ubc.ca" port="22" sshConfigId="7776f687-6c83-414c-b0f8-0a283ee6679c" sshConfig="thiago22@thetis.students.cs.ubc.ca:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
